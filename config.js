@@ -30,28 +30,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
+global.sig = 'https://instagram.com/Khrl7i'
+global.sgh = 'github.com/RullDev' //github
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
+global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.snh = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
+global.pdana = '6287753812675' //dana
 global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pgopay = '6287753812675' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
-global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Jarotoffc'
+global.ppulsa = '087753812675' //indosat
+global.pgdc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV' //group WhatsApp 
+global.ppulsa2 = '087753812675' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/RullZy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '65721 Hongkong'
-global.nomorown = '6285850539404'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '6287753812675'
+global.nomorown = '6287753812675'
+global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
+global.nameown = ''🚀 ┊ 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,10 +60,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6287753812675', '𝙍𝙪𝙡𝙡𝘽𝙊𝙏', true],
+  ['6287753812675', '𝙍𝙪𝙡𝙡𝘽𝙊𝙏', true],
+  ['6287753812675', '𝙍𝙪𝙡𝙡𝘽𝙊𝙏', true],
+  ['6287753812675', '𝙍𝙪𝙡𝙡𝘽𝙊𝙏', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,12 +111,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm = '                「 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 」' //Main Watermark
+global.wm2 = '   𝙍𝙪𝙡𝙡𝘽𝙊𝙏 X ©ᵂʰʸᶻᶻˣʸᵀᵉᵃᵐ'
+global.wm3 = '⫹⫺ 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙔𝙩 𝙍𝙪𝙡𝙡𝙕𝙔`
 global.author = '                「 𝘉𝘖𝘛 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
